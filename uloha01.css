@@ -11,18 +11,18 @@ table {
 th, td {
     padding: 8px;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #00FFFF;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #7393B3;
     font-weight: bold;
 }
 
 tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #89CFF0;
 }
 
 tr:hover {
-    background-color: #ddd;
+    background-color: lightblue;
 }
